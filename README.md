@@ -2,5 +2,5 @@
 Curso para negocios
 
 #Estudiantes
-Luis Chio
-Fiorella 
+1. Luis Chio
+2. Fiorella 
